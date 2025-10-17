@@ -1,0 +1,208 @@
+// Audio file
+{
+   "event":"messages.upsert",
+   "instance":"Clone do Rodrigo Silva",
+   "data":{
+      "key":{
+         "remoteJid":"5511980969202@s.whatsapp.net",
+         "fromMe":false,
+         "id":"AC8B2901146E97775231639B043C0F31"
+      },
+      "pushName":"NILZETE",
+      "status":"DELIVERY_ACK",
+      "message":{
+         "audioMessage":{
+            "url":"https://mmg.whatsapp.net/v/t62.7117-24/562940977_4063996317194600_2164446657571080384_n.enc?ccb=11-4&oh=01_Q5Aa2wF5dclqsrtq_7ggB5X7UOXRVMU9XdSW7OWilugsmOaJ4Q&oe=69135294&_nc_sid=5e03e0&mms3=true",
+            "mimetype":"audio/ogg; codecs=opus",
+            "fileSha256":"70W/sumlgaJVS6RC3FZWD482Y+wQA6iPf4hz35gBd8c=",
+            "fileLength":"6748",
+            "seconds":2,
+            "ptt":true,
+            "mediaKey":"J5J2sHNAvEz46nAg9xvWU6bgLEXKx09rjwx8cEmxGEk=",
+            "fileEncSha256":"yM7RFKBlWvz4qyBpsjNz+dn6WhJMQyww3dIOHxIOu6Y=",
+            "directPath":"/v/t62.7117-24/562940977_4063996317194600_2164446657571080384_n.enc?ccb=11-4&oh=01_Q5Aa2wF5dclqsrtq_7ggB5X7UOXRVMU9XdSW7OWilugsmOaJ4Q&oe=69135294&_nc_sid=5e03e0",
+            "mediaKeyTimestamp":"1760293357",
+            "waveform":"AAAGAgAAAA0hFjc0QDY1LiAwVk4wLyRBQz4/QT0tEAg8Nz4/MS82Njc6IyM9OC04SE1IOi0WL0xUTjwvMTk2LA=="
+         },
+         "messageContextInfo":{
+            "deviceListMetadata":{
+               "recipientKeyHash":"ZSb/DPsfGUtCnw==",
+               "recipientTimestamp":"1760095755"
+            },
+            "deviceListMetadataVersion":2,
+            "messageSecret":"OReAtw0GJ70NziEVKQp80XQFdwHEo9eNIOMQakV5wUM="
+         }
+      },
+      "contextInfo":"None",
+      "messageType":"audioMessage",
+      "messageTimestamp":1760293359,
+      "instanceId":"5f1a3ce5-a229-4c54-9386-fd9b2aac1ae7",
+      "source":"android"
+   },
+   "destination":"https://hyperdemocratic-noisomely-kiersten.ngrok-free.dev/v1/webhook/whatsapp",
+   "date_time":"2025-10-12T15:22:39.837Z",
+   "sender":"5511954891040@s.whatsapp.net",
+   "server_url":"https://evo.liderprospero.com",
+   "apikey":"369754116950-493C-A3AF-A7B98A8A5C0D"
+}
+// Image file with message
+{
+   "event":"messages.upsert",
+   "instance":"Clone do Rodrigo Silva",
+   "data":{
+      "key":{
+         "remoteJid":"5511980969202@s.whatsapp.net",
+         "fromMe":false,
+         "id":"ACA7A503CDCEA31CDCEAF75E0B980394"
+      },
+      "pushName":"NILZETE",
+      "status":"DELIVERY_ACK",
+      "message":{
+         "imageMessage":{
+            "url":"https://mmg.whatsapp.net/v/t62.7118-24/562367967_1159883819431406_3401144404967517891_n.enc?ccb=11-4&oh=01_Q5Aa2wG1w-c4xMInTVyQxxmJYTOiWSq9j3bQKDqrBqSRYbOMMw&oe=691375A3&_nc_sid=5e03e0&mms3=true",
+            "mimetype":"image/jpeg",
+            "caption":"Esse é outro teste",
+            "fileSha256":"4KlXc3wwbIri5Ju3nglELs8TxusoAAAtMYVM2zhcb1s=",
+            "fileLength":"15333",
+            "height":520,
+            "width":497,
+            "mediaKey":"WgTiYy6ZyjFQVmRJ16iXD7f4AvdA+RvUg0EDSRDJPJc=",
+            "fileEncSha256":"Ho95mEEOzMset2DtCA4mTNxmyE04kUXm2wIgise9WXw=",
+            "directPath":"/v/t62.7118-24/562367967_1159883819431406_3401144404967517891_n.enc?ccb=11-4&oh=01_Q5Aa2wG1w-c4xMInTVyQxxmJYTOiWSq9j3bQKDqrBqSRYbOMMw&oe=691375A3&_nc_sid=5e03e0",
+            "mediaKeyTimestamp":"1760285659",
+            "jpegThumbnail":"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIAEUDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAUGAQMEAgf/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAALHjMEd0PCYLD5gBeer57bCWB5o1yqJx79O828+fE1r7uLvubm8DZjIp8bJRht0hPWatWUAApsd3x4BP2WsWcAAr/GGMhKy4Af/EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQIBAT8AT//EABkRAAIDAQAAAAAAAAAAAAAAAAERACAhQP/aAAgBAwEBPwCwhSzi/8QALhAAAgEDAQcCBQUBAAAAAAAAAQIDAAQRBQYQEiAhMVFBcRYiIzNhExQyNWKR/9oACAEBAAE/AKJwMmrzV7S1BBcO3hafaaUS5WIcHivijp9jr71FtM5l+pCP0/x3q11G2u1BjkGfB78m0d+0SrbxNgt1YijknJ67sfjcrMhypIPkVs/ftd25jkOZE9fI3SOI42duyjNahcG5u5JSe56UO1RIoQyOMjsB5qDMnEGAAA7YqVVxxJ09CKJrRbr9rfoSflboaBBGR2NahA9zaPFG3CzetXel3dsTxREjyKKMnRgQfBpDxwcK/wAlOcUkjR5waL/Kw80kUkmSilsd8VaaPeXDAiMoPLVbo0cCI5yyjBO4gHoRmtfAGpuAMdKVipypwaa4du4X/lE5Oa2UUGSbIB6evLtD/Zv7bzWyf3Jvbl1851OTk2T+7N7cuuHOpy8myh+vKPxy6joU9zdPMjrhvQ0dnLz0K18OXv8Amhs3dnuyitF0mXT5HeRweIYwN/8A//4AAwD/2Q==",
+            "contextInfo":{
+               
+            }
+         },
+         "messageContextInfo":{
+            "deviceListMetadata":{
+               "recipientKeyHash":"ZSb/DPsfGUtCnw==",
+               "recipientTimestamp":"1760095755"
+            },
+            "deviceListMetadataVersion":2,
+            "messageSecret":"DAKg7P2/QZrTVvF27qcAkzWNFdic+mHSiCmyEeMUgGw="
+         }
+      },
+      "contextInfo":{
+         
+      },
+      "messageType":"imageMessage",
+      "messageTimestamp":1760293377,
+      "instanceId":"5f1a3ce5-a229-4c54-9386-fd9b2aac1ae7",
+      "source":"android"
+   },
+   "destination":"https://hyperdemocratic-noisomely-kiersten.ngrok-free.dev/v1/webhook/whatsapp",
+   "date_time":"2025-10-12T15:22:57.330Z",
+   "sender":"5511954891040@s.whatsapp.net",
+   "server_url":"https://evo.liderprospero.com",
+   "apikey":"369754116950-493C-A3AF-A7B98A8A5C0D"
+}
+// image file without messagem
+{
+   "event":"messages.upsert",
+   "instance":"Clone do Rodrigo Silva",
+   "data":{
+      "key":{
+         "remoteJid":"5511957610541-1405903979@g.us",
+         "fromMe":false,
+         "id":"AC7D3B50873FE75CDF605BE5592ACA87",
+         "participant":"61392380018701@lid"
+      },
+      "pushName":"jousealmeida76",
+      "status":"DELIVERY_ACK",
+      "message":{
+         "imageMessage":{
+            "url":"https://mmg.whatsapp.net/o1/v/t24/f2/m234/AQNAXAzvZDM2OVfdaNcJB2vZWeiYHqjGY4F3sdfD94eQZPftGkL95i8YVH85RFpak4Llg6uA2vaRvLp-fvMAO93sQXXIPagQZWKCp4tnvA?ccb=9-4&oh=01_Q5Aa2wHdCzj0hB-X1g3G2-F0pTxsERXgcx4w5R2wV4pRIe6-Eg&oe=6911C98B&_nc_sid=e6ed6c&mms3=true",
+            "mimetype":"image/jpeg",
+            "fileSha256":"RuwPnK2eqIyrfXIXOGijXf8ZtnVZKCgFJ5Q8m+Ec6xY=",
+            "fileLength":"220947",
+            "height":1599,
+            "width":899,
+            "mediaKey":"NNHOZQjWdjNg/QEC1NTpUplIvlfgj11AcWGMQk1NWV4=",
+            "fileEncSha256":"PQLrcPeNAW7Q17CTuujWIxQ7Y+rJbF+7b1kSQuSHpgU=",
+            "directPath":"/o1/v/t24/f2/m234/AQNAXAzvZDM2OVfdaNcJB2vZWeiYHqjGY4F3sdfD94eQZPftGkL95i8YVH85RFpak4Llg6uA2vaRvLp-fvMAO93sQXXIPagQZWKCp4tnvA?ccb=9-4&oh=01_Q5Aa2wHdCzj0hB-X1g3G2-F0pTxsERXgcx4w5R2wV4pRIe6-Eg&oe=6911C98B&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp":"1760194070",
+            "jpegThumbnail":"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwAIQMBIgACEQEDEQH/xAAvAAADAQEBAQAAAAAAAAAAAAAAAwQFAQIGAQEBAQEAAAAAAAAAAAAAAAACAQAD/9oADAMBAAIQAxAAAADNuSnj00fFNCOWWimYMcU6zN0EWnDT5bSnbdRQhprhYpNO9MvK5KKbCU2//8QAIxAAAgICAQQCAwAAAAAAAAAAAQIAAxESIQQiMUFRgRMUof/aAAgBAQABPwAldj25OYgpsr5wMeoF2GFliWJgjkCfs3/Bj0ascytecGVVgKuB9wrsORPxiWXWO2QvEFDlQ3iVONAn9i+pqIxSlRk5YmKeNfnxF28Y5ERu0EzaVBrXySYlh7QJVYSMGNnZB9zadPXhYvY8rIJ4AmSzk/AnMpAzOpZVs1ErsKg4nSsdSzezN1i8S1QXzjmKoicCbGf/xAAbEQEAAQUBAAAAAAAAAAAAAAABIAAQETJBYf/aAAgBAgEBPwDbtBiweQBOx//EABsRAAEEAwAAAAAAAAAAAAAAAAEAAhARIDJx/9oACAEDAQE/ANU43B6jJN4//9k=",
+            "contextInfo":{
+               
+            },
+            "scansSidecar":"2PEWsQzaS5jgRSL9hKnUA1bjmQ55yeCXWhXeo273QVESnftYox+r6g==",
+            "scanLengths":[
+               17024,
+               84403,
+               47187,
+               72333
+            ],
+            "midQualityFileSha256":"KxUdqtmsWwFcjQczNES0f2OkWXJGVo92FYuZ0x1U+UU="
+         },
+         "messageContextInfo":{
+            "messageSecret":"RtT3n+Pf/WHf8AE7i3p8XiP7XJggKcyWM5pLiWnhfiE="
+         }
+      },
+      "contextInfo":{
+         
+      },
+      "messageType":"imageMessage",
+      "messageTimestamp":1760194072,
+      "instanceId":"5f1a3ce5-a229-4c54-9386-fd9b2aac1ae7",
+      "source":"android"
+   },
+   "destination":"https://hyperdemocratic-noisomely-kiersten.ngrok-free.dev/v1/webhook/whatsapp",
+   "date_time":"2025-10-11T11:47:53.340Z",
+   "sender":"5511954891040@s.whatsapp.net",
+   "server_url":"https://evo.liderprospero.com",
+   "apikey":"369754116950-493C-A3AF-A7B98A8A5C0D"
+}
+// documentMessage
+{
+   "event":"messages.upsert",
+   "instance":"Clone do Rodrigo Silva",
+   "data":{
+      "key":{
+         "remoteJid":"5511980969202@s.whatsapp.net",
+         "fromMe":false,
+         "id":"ACC1880794F46CC407CA8DDEC5A95896"
+      },
+      "pushName":"NILZETE",
+      "status":"DELIVERY_ACK",
+      "message":{
+         "documentMessage":{
+            "url":"https://mmg.whatsapp.net/v/t62.7119-24/563876329_801990282793544_6959673692269584202_n.enc?ccb=11-4&oh=01_Q5Aa2wGQxnkQyRR3c0zsvrEE68fOw6fBB6CNrjYkvFWCyXNxqA&oe=691356E0&_nc_sid=5e03e0&mms3=true",
+            "mimetype":"application/pdf",
+            "fileSha256":"Errb+qbDBf3GexpkTxCQL6qbvGXCVuFS3J/DDHmwdyY=",
+            "fileLength":"207935",
+            "pageCount":2,
+            "mediaKey":"uD3E7OMwKjUEafOcXkjAhita/uTf/MIpplO3Oeb3e60=",
+            "fileName":"2025-10-12_142006.pdf",
+            "fileEncSha256":"iFCC8g1n3un4Hcc6g+cYFLYBHVtPlPUtYY0zWNKML6w=",
+            "directPath":"/v/t62.7119-24/563876329_801990282793544_6959673692269584202_n.enc?ccb=11-4&oh=01_Q5Aa2wGQxnkQyRR3c0zsvrEE68fOw6fBB6CNrjYkvFWCyXNxqA&oe=691356E0&_nc_sid=5e03e0",
+            "mediaKeyTimestamp":"1760289647",
+            "thumbnailDirectPath":"/v/t62.36145-24/563499216_846649394454601_5050114893852789853_n.enc?ccb=11-4&oh=01_Q5Aa2wGVCOObIhj4IVyehlJbMMinUalg3vRfBNKlB40j7ffTDg&oe=69137CEC&_nc_sid=5e03e0",
+            "thumbnailSha256":"eymov6/5o6/d9s2DtJjsobjbktNGcun29BM7KEWNhJQ=",
+            "thumbnailEncSha256":"13ws66j95lb+0DD2Vxp/M3ivBSF/dDxGz86LpfKJSVM=",
+            "jpegThumbnail":"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABERERESERMVFRMaHBkcGiYjICAjJjoqLSotKjpYN0A3N0A3WE5fTUhNX06MbmJiboyiiIGIosWwsMX46/j///8BERERERIRExUVExocGRwaJiMgICMmOiotKi0qOlg3QDc3QDdYTl9NSE1fToxuYmJujKKIgYiixbCwxfjr+P/////CABEIAGAARAMBIgACEQEDEQH/xAAwAAEAAwEBAQAAAAAAAAAAAAAAAQIDBQQGAQEBAQEBAAAAAAAAAAAAAAAAAQUCBP/aAAwDAQACEAMQAAAA5cWz082aKpaLqpMQXB91r67Z3v43p9t68MdFLx79OxxnZGVZTrRaZaLii4hIxjYkW1Lk1GTUZNUUWCYkAAA82l7WRJKAAB//xAA1EAACAQICBQgJBQAAAAAAAAABAgAREgNSBSExYZEEBhMgI0FRgRAUFiIkQnFyoTAyRFPh/9oACAEBAAE/ABsAsQ79cuH9afmEgili/WWmWGWy2WmWGDlLlAlF2U2CbKwlqy6hga6V1UhJgahlxOwxObejwgJvjc3NHjPDofRIIo5t+6ezui3QOC5Bh5t6OTPPZ3R1l3v8Y+hdFpm31Jg5v6KdblLmPzb5BcbcTFEHrYxdTDo6Rjyj5SJ8V32RfWPmI8pXF8Z2vjCrnbO1HfO18Y3S3i06pbj5xB0gAqAfOVfKOMq+UcZV8o4yr5RxlXyjj6HRC1WQN5Vi4eC1eyG3vEAAAAFB13XGJNtKbyYPWfDD4mLfT3gK7uu7t0opjWbtUAxDb8cPxELMNWIh8v8AZR8y8JR8y8JR8y8JR8y8JR8y8IJjhTiFjhBxuUExVwT/ABwpHeVEVET9qgfQdfEwMZnqjqF31gTlooBi4VPtMA5UpFcTCt8LT18e0YveKU7zF5MjIGDvQjVrMGGVAAcy1s5lrZzLWzmWtnMtbOYIRiriAhar936P/8QAHxEAAAUEAwAAAAAAAAAAAAAAAAECE1IDEBEgMIGR/9oACAECAQE/AL5s4uRhxcj9Di5GHFyMOVJGM698WT1//8QAHxEAAAUEAwAAAAAAAAAAAAAAAAECE1IDEBEgMIGR/9oACAEDAQE/AL4sSEQDaIl4G0RINoiQapxIY164sFr/AP/Z",
+            "thumbnailHeight":480,
+            "thumbnailWidth":339
+         },
+         "messageContextInfo":{
+            "deviceListMetadata":{
+               "recipientKeyHash":"ZSb/DPsfGUtCnw==",
+               "recipientTimestamp":"1760095755"
+            },
+            "deviceListMetadataVersion":2,
+            "messageSecret":"80p+c0cKJyqpFoQQbwIAteqksDAZRg1trBPMIewQnFA="
+         }
+      },
+      "contextInfo":"None",
+      "messageType":"documentMessage",
+      "messageTimestamp":1760293442,
+      "instanceId":"5f1a3ce5-a229-4c54-9386-fd9b2aac1ae7",
+      "source":"android"
+   },
+   "destination":"https://hyperdemocratic-noisomely-kiersten.ngrok-free.dev/v1/webhook/whatsapp",
+   "date_time":"2025-10-12T15:24:02.776Z",
+   "sender":"5511954891040@s.whatsapp.net",
+   "server_url":"https://evo.liderprospero.com",
+   "apikey":"369754116950-493C-A3AF-A7B98A8A5C0D"
+}
